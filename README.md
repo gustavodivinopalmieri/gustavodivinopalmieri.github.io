@@ -1,1 +1,0 @@
-# gustavodivinopalmieri.github.io
