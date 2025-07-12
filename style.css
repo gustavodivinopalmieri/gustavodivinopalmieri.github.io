@@ -46,3 +46,18 @@ body{
     font-size: 18px;
     margin: 10px 0;
 }
+
+.social{
+
+    display: flex;
+    flex-wrap: wrap;
+    gap:1.4rem;
+    margin-top: 1.4rem;
+}
+
+.social a{
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+    color:aliceblue
+}
